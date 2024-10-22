@@ -26,7 +26,7 @@
 				"strings": true,
 				"identifiers": true,
 				"lang": "en_US",
-				"skipWords": ["dict", "bool", "utils", "sequelize", "readdir", "webpack", "jsx", "tsx", "cjs", "mjs", "cts", "mts"],
+				"skipWords": ["sequelize", "readdir", "middlewares"],
 				"skipIfMatch": ["http://[^s]*"],
 				"skipWordIfMatch": ["^foobar.*$"],
 				"minLength": 3
